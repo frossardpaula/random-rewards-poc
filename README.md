@@ -157,9 +157,12 @@ random-rewards-poc/
     ├── random_rewards_4.png
     ├── random_rewards_5.png
     └── random_rewards_6.png
+```
 
 ## About This Repository
 
 This repository demonstrates research thinking, analytical reasoning, and communication skills rather than serving as a reproducible data analysis project.
 
 For a narrative walkthrough, see the corresponding case study on [datascienceportfol.io/paulafrossard/projects](https://www.datascienceportfol.io/paulafrossard/projects/2)
+
+
