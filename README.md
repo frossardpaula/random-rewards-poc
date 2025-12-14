@@ -81,10 +81,10 @@ Responsibilities included:
 
 ## Teams Involved
 
-- Engagement Team — Feature owners and stakeholders  
-- Commercial Team — POC sponsors and decision-makers  
-- UX Research — Study design and analysis (single researcher)  
-- Optimisation Team — Survey triggering and technical setup  
+- Engagement Team: Feature owners and stakeholders  
+- Commercial Team: POC sponsors and decision-makers  
+- UX Research: Study design and analysis (single researcher)  
+- Optimisation Team: Survey triggering and technical setup  
 
 
 
@@ -97,7 +97,7 @@ Audience labels represent different customer segments within the same organizati
 
 ### Satisfaction Results by Brand Segment
 
-![Satisfaction Results](assets/images/random_rewards_3.png)
+![Satisfaction Results](assets/random_rewards_3.png)
 
 Aggregated satisfaction distribution across four customer segments (Brands 1-4).
 
@@ -105,7 +105,7 @@ Aggregated satisfaction distribution across four customer segments (Brands 1-4).
 
 ### Ease of Participation Results
 
-![Ease of Participation Results](assets/images/random_rewards_2.png)
+![Ease of Participation Results](assets/random_rewards_2.png)
 
 Perceived ease of participation showed consistently positive results across segments.
 
