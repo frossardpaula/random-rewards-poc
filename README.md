@@ -9,7 +9,7 @@ The study evaluated customer satisfaction and perceived usability of a Scratchca
 
 Due to confidentiality constraints, original datasets, full slide decks, and proprietary brand details cannot be shared. This repository focuses on methodology, analytical reasoning, and selected visual artefacts used to support product and commercial decision-making.
 
----
+
 
 ## Project Context
 
@@ -19,7 +19,7 @@ To assess feasibility and customer response, a Proof of Concept was launched usi
 
 The UX Research goal was to gather fast, actionable feedback under real product constraints, rather than to run a fully controlled experiment.
 
----
+
 
 ## Research Goals
 
@@ -28,7 +28,7 @@ The UX Research goal was to gather fast, actionable feedback under real product 
 - Capture qualitative feedback to contextualize quantitative results  
 - Support product iteration and commercial decision-making  
 
----
+
 
 ## Methodology
 
@@ -49,7 +49,7 @@ The UX Research goal was to gather fast, actionable feedback under real product 
 3. Please tell us your impressions of the Scratchcard  
    (Open-ended)
 
----
+
 
 ## Limitations and Biases
 
@@ -63,7 +63,7 @@ The UX Research goal was to gather fast, actionable feedback under real product 
 
 These constraints were explicitly acknowledged when interpreting results.
 
----
+
 
 ## My Role
 
@@ -77,7 +77,7 @@ Responsibilities included:
 - Analyzing quantitative and qualitative results  
 - Synthesizing insights and presenting findings to stakeholders  
 
----
+
 
 ## Teams Involved
 
@@ -86,7 +86,7 @@ Responsibilities included:
 - UX Research — Study design and analysis (single researcher)  
 - Optimisation Team — Survey triggering and technical setup  
 
----
+
 
 ## Key Results (Illustrative Artefacts)
 
@@ -95,29 +95,21 @@ The images below are extracts from internal presentation materials.
 Brand names and company identifiers have been anonymized.  
 Audience labels represent different customer segments within the same organization, not separate companies.
 
-### Satisfaction Results by Audience Segment
+### Satisfaction Results by Brand Segment
 
-![Satisfaction Results](assets/images/satisfaction_results.png)
+![Satisfaction Results](assets/images/random_rewards_3.png)
 
-Aggregated satisfaction distribution across four customer segments (Audience A–D).
+Aggregated satisfaction distribution across four customer segments (Brands 1-4).
 
----
+
 
 ### Ease of Participation Results
 
-![Ease of Participation Results](assets/images/ease_results.png)
+![Ease of Participation Results](assets/images/random_rewards_2.png)
 
 Perceived ease of participation showed consistently positive results across segments.
 
----
 
-### Combined Results Table (Internal Analysis Extract)
-
-![Combined Results Table](assets/images/combined_results_table.png)
-
-Spreadsheet extract used to consolidate results across segments for stakeholder review.
-
----
 
 ## Insights and Impact
 
@@ -132,7 +124,7 @@ These insights informed:
 - Design considerations for a future integrated rewards feature  
 - Commercial evaluation of the third-party provider partnership  
 
----
+
 
 ## Learnings
 
@@ -144,7 +136,7 @@ Despite methodological limitations, the study delivered actionable insights that
 
 Transforming qualitative feedback into structured themes helped stakeholders better understand why users responded the way they did.
 
----
+
 
 ## Notes on Data and Confidentiality
 
@@ -152,7 +144,21 @@ Transforming qualitative feedback into structured themes helped stakeholders bet
 - Brand names, company identifiers, and proprietary visuals have been anonymized  
 - All artefacts are shared for portfolio and illustrative purposes only  
 
----
+
 
 ## Repository Structure
+random-rewards-poc/
+├── README.md
+└── assets/
+└── images/
+├── satisfaction_results.png
+├── ease_results.png
+└── combined_results_table.png
 
+
+
+## About This Repository
+
+This repository demonstrates research thinking, analytical reasoning, and communication skills rather than serving as a reproducible data analysis project.
+
+For a narrative walkthrough, see the corresponding case study on [datascienceportfol.io.](https://www.datascienceportfol.io/paulafrossard/projects/2)
