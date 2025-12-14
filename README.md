@@ -147,18 +147,19 @@ Transforming qualitative feedback into structured themes helped stakeholders bet
 
 
 ## Repository Structure
+```text
 random-rewards-poc/
 ├── README.md
 └── assets/
-└── images/
-├── satisfaction_results.png
-├── ease_results.png
-└── combined_results_table.png
-
-
+    ├── random_rewards_1.png
+    ├── random_rewards_2.png
+    ├── random_rewards_3.png
+    ├── random_rewards_4.png
+    ├── random_rewards_5.png
+    └── random_rewards_6.png
 
 ## About This Repository
 
 This repository demonstrates research thinking, analytical reasoning, and communication skills rather than serving as a reproducible data analysis project.
 
-For a narrative walkthrough, see the corresponding case study on [datascienceportfol.io.](https://www.datascienceportfol.io/paulafrossard/projects/2)
+For a narrative walkthrough, see the corresponding case study on [datascienceportfol.io/paulafrossard/projects](https://www.datascienceportfol.io/paulafrossard/projects/2)
